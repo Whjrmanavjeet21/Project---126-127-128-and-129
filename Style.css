@@ -1,0 +1,18 @@
+body {
+    background-size: cover;
+    font-family: 'Syne Tactile', cursive;
+}
+.heading {
+    width: 100%;
+    margin-top: 10;
+}
+.note {
+    color: blue;
+    font-size: 15px;
+}
+canvas{
+    background-color: cornsilk;
+    border: 5px ridge blue;
+    border-radius: 20px;
+    box-shadow: 5px 5px 5px red;
+}
